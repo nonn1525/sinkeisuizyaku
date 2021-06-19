@@ -200,7 +200,7 @@ function cardset () {
     start.style.display = 'none';
     bord.style.display = 'block';
     timeattack();
-    // shuffle();
+    shuffle();
     cardset();
     game();
   });
